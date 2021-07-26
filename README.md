@@ -10,5 +10,5 @@ iii)Concept of Session Management is used.&nbsp;So that, server will recognize i
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 iv)If any user logged out and used back button of browser he/she we not be able to go on same back page but he/she will be reffered login page.
                 
-<b>Status:</b> This project is completed.<br>
+
 
