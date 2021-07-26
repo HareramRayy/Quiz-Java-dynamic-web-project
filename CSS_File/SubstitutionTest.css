@@ -1,0 +1,58 @@
+body{background-color:white;}
+	x{color:green;font-size: 35px;}
+	y{color:red;font-size: 35px;}
+	h1{color:green;}
+	input{font-size: 40px;color:blue;background-color:#FFFF99;}
+	text,a1,a2{font-size: 40px;color:blue;background-color:#FFFF99;}
+	t{font-size: 30px;color:blue;background-color:yellow;}
+	t1{font-size: 30px;color:white;background-color:brown;}
+	a1+a2{margin-left:100px;}
+	a1,a2{font-size: 50px;color:blue;background-color:#FFFF99;}
+	label{font-size: 50px; color:blue;}
+	h2{color:blue}
+	h3:hover,h1:hover,t:hover,text:hover { 
+			text-shadow: 0 1px 0 #ccc, 0 2px 0 , 
+				0 3px 0 #ccc, 0 4px 0 , 
+				0 5px 0 #ccc, 0 6px 0 , 
+				0 7px 0 #ccc, 0 8px 0 , 
+				0 9px 0 #ccc, 0 10px 0 , 
+				0 11px 0 #ccc, 0 12px 0 , 
+				0 20px 30px rgba(1, 1, 1 ); 
+		}
+ul { 
+			margin: 0 0%; 
+			padding: 10px 0px 10px 250px; 
+			display: flex; 
+			background: pink; 
+		} 
+
+		ul li { 
+			list-style: none; 
+			padding: 10px 20px; 
+
+		} 
+
+		ul li a { 
+			text-decoration: none; 
+			font-size: 24px; 
+			font-weight: bold; 
+			color: black; 
+			position: relative; 
+
+		} 
+
+		ul li a::before { 
+			content: ""; 
+			width: 0px; 
+			height: 10px; 
+			background: black; 
+			position: absolute; 
+			top: 100%; 
+			left: 0; 
+			transition: .5s; 
+		} 
+
+		ul li a:hover::before { 
+			width: 50%; 
+			transform: translateX(100%); 
+		} 
