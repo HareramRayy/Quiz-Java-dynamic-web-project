@@ -8,7 +8,7 @@ ii)User can view and delete his/her past marks.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 iii)Concept of Session Management is used.&nbsp;So that, server will recognize if request is from logged in client or not.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iv)If any user logged out and used back button of browser, he/she will not be able to go on same back page but he/she will be reffered login page.
+iv)If any user logged out and used back button of browser, he/she will not be able to go on same back page but he/she will be referred login page.
                 
 
 
